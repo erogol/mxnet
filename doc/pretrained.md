@@ -1,4 +1,4 @@
-Pretrained Model Gallary
+Pretrained Model Gallery
 ========================
 This document contains the the pretrained in MXNet
 
